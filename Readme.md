@@ -72,6 +72,4 @@ credit-card-fraud-detection/
 - Hyperparameter Tuning
 - Real-Time Fraud Detection Dashboard
 
-## Reference
-Inspired by the GeeksforGeeks tutorial:
-https://www.geeksforgeeks.org/machine-learning/ml-credit-card-fraud-detection/
+
